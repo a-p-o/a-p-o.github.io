@@ -36,7 +36,7 @@ _Mar. 2015 - Current_
 
 # Education
 
-Stetson University (2013 - 2017) 
+Stetson University (2013 - 2017)   
 B.S. Computer science
 
 # Tech courses
@@ -45,17 +45,17 @@ B.S. Computer science
 * Computer networks
 * Big data mining and analytics
 * Web application development
+* Computer graphics I
 * Algorithm analysis
 * Discrete structures
 * Computer organization
-* Intro to computer science II
 
 # You've read this far
 
 Give me a call or send me a message:
 
-(386) 490-3600  
-[me@ordonezalex.com](me@ordonezalex.com)
+[{{ site.phone }}](tel:{{ site.phone_link }})  
+[{{ site.email }}](mailto:{{ site.email }})
 
 # Not sold?
 
