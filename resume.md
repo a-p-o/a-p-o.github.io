@@ -54,7 +54,7 @@ B.S. Computer science
 
 Give me a call or send me a message:
 
-(386) 490-3600
+(386) 490-3600  
 [me@ordonezalex.com](me@ordonezalex.com)
 
 # Not sold?
