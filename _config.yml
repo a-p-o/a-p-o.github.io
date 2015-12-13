@@ -1,6 +1,9 @@
 # Site settings
 title: '@ordonezalex'
+name: Alex Ordonez
 email: me@ordonezalex.com
+phone: (386) 490-3600
+phone_link: '+13864903600'
 description: > # this means to ignore newlines until 'baseurl:'
     Full-time student studying computer science.
     Loves education, open source software, hackathons, and sustainability.
@@ -8,6 +11,7 @@ baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'http://ordonezalex.com' # the base hostname & protocol for your site
 twitter_username: ordonezalex_
 github_username: ordonezalex
+linkedin_username: ordonezalex
 
 # Build settings
 markdown: kramdown
