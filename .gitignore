@@ -1,6 +1,7 @@
 ### App
 _site
 .sass-cache
+Gemfile.lock
 
 ### JetBrains
 *.iml
