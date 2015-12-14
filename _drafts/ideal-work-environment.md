@@ -12,7 +12,7 @@ Below, in no particular order, I describe my ideal work environment.
 The office building is in a city.
 I work remotely on occasion.
 The building is near a variety of food markets which offer many vegan food options.
-The restaraunts offer vegan fare for take-out.
+The restaurants offer vegan fare for take-out.
 
 # Building
 
