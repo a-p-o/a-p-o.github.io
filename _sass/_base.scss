@@ -137,6 +137,14 @@ pre {
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
+  
+  hr {
+    margin: $spacing-unit;
+    border: none;
+    background: $gray-color-light;
+    height: 1px;
+  }
+                        
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(800px - (#{$spacing-unit}));
