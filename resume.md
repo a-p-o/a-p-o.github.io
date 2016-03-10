@@ -5,11 +5,11 @@ permalink: /resume/
 ---
 # Summary
 
-I get pumped about new software.
+I get pumped about learning.
 I chase down hackathons.
 My passion to create pushes me forward.
 I bring hype to the tech that I love.
-Co-founded Stetson Hacker Space - host of the first hackathon at Stetson University.
+Helped co-found Stetson Hacker Space - host of the first hackathon at Stetson University
 
 I am ready to solve any problem thrown my way.
 I look forward to work on progressive and exciting projects.
@@ -17,12 +17,17 @@ I look forward to work on progressive and exciting projects.
 # Skills
 
 * Java
+* Spring
 * Android
 * Linux
 * Git
+* Bash
 * PHP
-* Javascript + NodeJS
-* HTML5 + CSS3
+* MySQL
+* MongoDB
+* JavaScript + jQuery + NodeJS
+* HTML + CSS
+* SASS + CoffeeScript
 
 # Interests
 
