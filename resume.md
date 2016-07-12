@@ -5,17 +5,13 @@ permalink: /resume/
 ---
 # Summary
 
-I get pumped about learning.
-I chase down hackathons.
-My passion to create pushes me forward.
-I bring hype to the tech that I love.
-Helped co-found Stetson Hacker Space - host of the first hackathon at Stetson University
-
-I am ready to solve any problem thrown my way.
-I look forward to work on progressive and exciting projects.
+I am a full-time student studying computer science.
+I love education, open source software, hackathons, and sustainability.
 
 # Skills
 
+* Algorithm analysis
+* Software development
 * Java
 * Spring
 * Android
@@ -26,8 +22,6 @@ I look forward to work on progressive and exciting projects.
 * MySQL
 * MongoDB
 * JavaScript + jQuery + NodeJS
-* HTML + CSS
-* SASS + CoffeeScript
 
 # Interests
 
@@ -44,17 +38,6 @@ _Mar. 2015 - Current_
 Stetson University (2013 - 2017)   
 B.S. Computer science
 
-# Tech courses
-
-* Software development I + II
-* Computer networks
-* Big data mining and analytics
-* Web application development
-* Computer graphics I
-* Algorithm analysis
-* Discrete structures
-* Computer organization
-
 # You've read this far
 
 Give me a call or send me a message:
@@ -66,6 +49,6 @@ Give me a call or send me a message:
 
 Check out the projects I've worked on:
 
-[github.com/ordonezalex](https://github.com/ordonezalex)  
-[linkedin.com/in/ordonezalex](https://linkedin.com/in/ordonezalex)
+[github.com/a-p-o](https://github.com/a-p-o)  
+[linkedin.com/in/a-p-o](https://linkedin.com/in/a-p-o)
 
