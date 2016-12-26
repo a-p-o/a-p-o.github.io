@@ -15,10 +15,6 @@ I am able to troubleshoot and analyze problems, then research and implement the 
 * Java, Spring, JUnit, Gradle, Maven, Linux, Git, Bash, Docker, Tomcat, MySQL, MongoDB
 * Hibernate, Amazon Web Services, RESTful APIs, OOP, PHP, JavaScript, jQuery, NodeJS
 
-# Interests
-
-Education, open source software, hackathons, and sustainability.
-
 # Experience
 
 * **SecureNet Technologies**  
