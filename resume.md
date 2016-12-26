@@ -17,9 +17,8 @@ I am able to troubleshoot and analyze problems, then research and implement the 
 
 # Experience
 
-* **SecureNet Technologies**  
-_Software Engineer_
-_Mar. 2015 - Current_
+**SecureNet Technologies**
+_Software Engineer (Mar. 2015 - Current)_
 
 * Collaborated with team members on national and international levels
 * Facilitated the adoption of emerging standards for software architecture and tools
@@ -31,8 +30,8 @@ _Mar. 2015 - Current_
 
 # Education
 
-Stetson University (2013 - 2016)
-B.S. Computer science
+**B.S. Computer Science**
+_Stetson University (2013 - 2016)_
 
 * Received formal education on data structures, algorithms, Java, PHP, Git, and Linux. Electives in web applications, network security, big data analytics, and artificial intelligence.
 * Helped cofound Stetson Hacker Space — a student-run, technology-focused club who hosted the first hackathon at Stetson University (sudo HackStetson).
