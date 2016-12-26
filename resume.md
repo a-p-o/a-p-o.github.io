@@ -17,7 +17,7 @@ I am able to troubleshoot and analyze problems, then research and implement the 
 
 # Experience
 
-**SecureNet Technologies**
+**SecureNet Technologies**  
 _Software Engineer (Mar. 2015 - Current)_
 
 * Collaborated with team members on national and international levels
@@ -30,7 +30,7 @@ _Software Engineer (Mar. 2015 - Current)_
 
 # Education
 
-**B.S. Computer Science**
+**B.S. Computer Science**  
 _Stetson University (2013 - 2016)_
 
 * Received formal education on data structures, algorithms, Java, PHP, Git, and Linux. Electives in web applications, network security, big data analytics, and artificial intelligence.
