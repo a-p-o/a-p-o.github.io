@@ -3,30 +3,37 @@ layout: page
 title: Résumé
 permalink: /resume/
 ---
+_I recommend visiting my [LinkedIn](https://linkedin.com/in/a-p-o). It is updated more frequently than this website._
+
 # Summary
 
-I have three years of experience, including contributing to backends written in Java and Spring, simple Linux system administration, and work great with diverse and distributed teams.
-I have advanced knowledge in development methodologies, processes, and tools to develop stable, tested, continuously integrated services.
-I am able to troubleshoot and analyze problems, then research and implement the most cost-effective and responsive solution.
+I have experience in contributing to Java/Kotlin infrastructural back-end services written using the Spring Framework, advanced Linux system administration, and work great with diverse and distributed teams. I develop stable, tested, and continuously improved software. I am able to troubleshoot and analyze problems, then research and implement the most cost-effective and responsive solution.
 
 # Skills & Tools
 
-* Algorithm analysis and software development, Agile development
-* Java, Spring, JUnit, Gradle, Maven, Linux, Git, Bash, Docker, Tomcat, MySQL, MongoDB
-* Hibernate, Amazon Web Services, RESTful APIs, OOP, PHP, JavaScript, jQuery, NodeJS
+* Algorithm analysis and software development, agile development
+* Java, Kotlin, Spring Framework, Git, SQL, Gradle, JUnit, IntelliJ
+* Linux, Amazon Web Services, RESTful APIs
 
 # Experience
 
 **SecureNet Technologies**  
 _Software Engineer (Mar. 2015 - Current)_
 
-* Collaborated with team members on national and international levels
-* Facilitated the adoption of emerging standards for software architecture and tools
-* Introduced best practices to enhance release process and service stability
-* Using Java 7 and 8, iterated on, added features to, designed, and developed new back-end services that interact with home security panels and client APIs. Wrote APIs for these services. Integrated these services with existing systems
-* Maintained legacy projects older than 10 years old by refactoring as needed to use newer APIs and methodologies, such as the Java Collections and Streams APIs
-* Started new projects, such as integrations with APIs from clients and third-parties that notify end-users when a visitor rings their doorbell
+* Collaborate with team members and clients spread across the world.
+* Start and finish new projects, such as integrations with third-party APIs.
+* Reduce various RESTful API response times from 1 second to under 200 milliseconds.
+* Facilitate the adoption of emerging standards for software architecture and tools
+* Introduce best practices to enhance release process and service stability.
+* Lead migration from SVN to Git, from Spring MVC to Spring Boot, from Java 7 to Java 8.
+* Maintain legacy projects more than 10 years old by refactoring to adapt and succeed.
 
+**Office Divvy**
+_Web Developer (Jun. 2011 - Oct. 2015)_
+
+* Maintain internal databases.
+* Produce and maintain client websites so that they are search engine optimized.
+* Mentor interns on how to develop client websites, maintain databases, interact with clients, and read official documentation.
 
 # Education
 
@@ -42,11 +49,3 @@ Give me a call or send me a message:
 
 [{{ site.phone }}](tel:{{ site.phone_link }})  
 [{{ site.email }}](mailto:{{ site.email }})
-
-# Not sold?
-
-Check out the projects I've worked on:
-
-[github.com/a-p-o](https://github.com/a-p-o)  
-[linkedin.com/in/a-p-o](https://linkedin.com/in/a-p-o)
-
