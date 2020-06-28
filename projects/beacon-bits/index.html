@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Beacon Bits &middot; Alex Ordonez</title>
+
+		
+  		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/css/fonts.css">
+		
+		<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+		
+		<link href="" rel="alternate" type="application/rss+xml" title="Alex Ordonez" />
+	</head>
+
+    <body>
+        		<nav class="nav">
+			<div class="nav-container">
+				<a href="/">
+					<h2 class="nav-title">Alex Ordonez</h2>
+				</a>
+				<ul>
+    
+    
+        <li>
+            <a href="/resume/">
+                
+                <span>Résumé</span>
+                
+            </a>
+        </li>
+    
+</ul>
+			</div>
+		</nav>
+
+        
+
+<main>
+	<div class="post">
+		<div class="post-info">
+    <span>Written by</span>
+        Alex Ordonez
+        <br>
+        <span>on&nbsp;</span><time datetime="2016-03-06 06:19:00 -0500 -0500">March 6, 2016</time>
+</div>
+		<h1 class="post-title">Beacon Bits</h1>
+<div class="post-line"></div>
+
+		
+
+		<h1 id="summary">Summary</h1>
+<p><a href="https://github.com/a-p-o/beacon-bits">Beacon Bits</a> is a tool for system administrators and other IT professionals.</p>
+<p>My team <a href="https://devpost.com/software/beaconbits">submitted this project at MangoHacks 2016</a> and won the Best Use of Amazon Web Services prize.</p>
+<p>A Beacon is a small, WiFi-enabled device that submits information about the network to a cloud-based service. Administrators can see the data from a website.</p>
+<p>The rest of my team used an Arduino UNO as our development beacon.
+We used the <a href="http://johnny-five.io/">Johnny-Five</a> framework to diagnose the network by measuring ping rates and upload and download speeds.</p>
+<p>I wrote the back-end, which ran on Amazon Web Services.
+The back-end was written in Ruby with the Ruby on Rails framework.</p>
+<p>This was my first time using Amazon Web Services.
+I usually prefer to use DigitalOcean, but was excited to try a new tool called <a href="https://www.ottoproject.io/">otto by HashiCorp</a>.
+Unfortunately, otto has shipped with a few bugs that prevented me from using it past the development feature.
+I ended up creating the instances I needed for the hack manually.</p>
+<p>This was also my first time using Ruby on Rails (and Ruby itself).
+I found Ruby easy to pick up.
+The most confusing part was letting Ruby on Rails do whatever &ldquo;magic&rdquo; it was doing while also not completely knowing the Ruby language.
+My favorite part about using Ruby on Rails was how similar it was to Laravel 4.
+I soon realized that Laravel seems to take after Ruby on Rails, and this allowed me to focus on learning the Ruby language, instead of how Rails wanted me to build the app.</p>
+<p>Team members:</p>
+<ul>
+<li>Katie Porterfield</li>
+<li>Marisa Gomez</li>
+<li>Alex Ordonez</li>
+</ul>
+<hr>
+<h1 id="inspiration">Inspiration</h1>
+<p>One of our school&rsquo;s I.T. administrators discussed how they have no way in knowing how a student truly experiences the internet on campus.</p>
+<h1 id="what-it-does">What it does</h1>
+<p>Beacon Bits allows the admin to place arduinos or raspberry pi anywhere on campus and gives them a visual of where on campus the internet works, is subpar, or disconnected. Beacon Bits is scaleable to where any home user could place one around their house, be used in every Starbucks, or placed in every department store in a mall. Anywhere there is wifi.</p>
+<h1 id="how-we-built-it">How we built it</h1>
+<p>Using Amazon Web Services, we used an arduino running node.js to do ping and pull requests to determine the internet speed, then pushed the information up to the cloud where the information is displayed on a web interface.</p>
+<h1 id="challenges-we-ran-into">Challenges we ran into</h1>
+<p>A lot of hardware was incompatible with to connect to the internet or running the code needed.</p>
+<h1 id="whats-next-for-beaconbits">What&rsquo;s next for beaconBits</h1>
+<p>Adding graphical representations, allowing the admin to change what sites are checked for downloads.</p>
+<h1 id="built-with">Built With</h1>
+<p>amazon-web-services, arduino, bitbucket, bootstrap, github, javascript, johnny-five, jquery, node.js, otto, ruby, ruby-on-rails</p>
+
+
+		
+	</div>
+
+	<div class="pagination">
+		<a href="/posts/eating-vegan-at-chipotle/" class="left arrow">&#8592;</a>
+
+		<a href="#" class="top">Top</a>
+	</div>
+</main>
+
+
+        		<footer>
+			<span>
+			&copy; <time datetime="2020-06-27 18:44:11.059928 -0700 PDT m=&#43;0.060344085">2020</time> Alex Ordonez. Made with <a href='https://gohugo.io'>Hugo</a> using the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
+			</span>
+		</footer>
+
+    </body>
+</html>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alex Ordonez</title>
+    <link>https://ordonezalex.com/projects/</link>
+    <description>Recent content in Projects on Alex Ordonez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Mar 2016 06:19:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ordonezalex.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beacon Bits</title>
+      <link>https://ordonezalex.com/projects/beacon-bits/</link>
+      <pubDate>Sun, 06 Mar 2016 06:19:00 -0500</pubDate>
+      
+      <guid>https://ordonezalex.com/projects/beacon-bits/</guid>
+      <description>Summary Beacon Bits is a tool for system administrators and other IT professionals.
+My team submitted this project at MangoHacks 2016 and won the Best Use of Amazon Web Services prize.
+A Beacon is a small, WiFi-enabled device that submits information about the network to a cloud-based service. Administrators can see the data from a website.
+The rest of my team used an Arduino UNO as our development beacon. We used the Johnny-Five framework to diagnose the network by measuring ping rates and upload and download speeds.</description>
+    </item>
+    
+    <item>
+      <title>Sherlink Holmes</title>
+      <link>https://ordonezalex.com/projects/sherlink-holmes/</link>
+      <pubDate>Wed, 10 Feb 2016 04:10:00 -0700</pubDate>
+      
+      <guid>https://ordonezalex.com/projects/sherlink-holmes/</guid>
+      <description>Summary Sherlink helps users find the next article to read on Wikipedia.
+Usually when you visit Wikipedia, you are trying to learn as much as you can in the smallest amount of time&amp;hellip; or you are wasting time going down a Wikipedia rabbit hole.
+Sherlink helps you stay on track by analyzing the article you are reading and using analytics provided by MediaWiki (which is the software that makes Wikipedia).</description>
+    </item>
+    
+    <item>
+      <title>Team With Me</title>
+      <link>https://ordonezalex.com/projects/no-cheat/</link>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ordonezalex.com/projects/no-cheat/</guid>
+      <description>Summary My team and I worked on this project during our first hackathon. Unfortunately the project was not finished. However, the experience was worth it and introduced me to Android apps—and hackathons!
+During the hackathon, our team handled many new difficulties—such as working with multiple people on a git repository, all contributors accidentally uploading generated files. Three-quarters of our team also exposed ourselves to Parse for the first time, as well as using a third-party (Parse&amp;rsquo;s) SDK within an Android project.</description>
+    </item>
+    
+    <item>
+      <title>MicroManage</title>
+      <link>https://ordonezalex.com/projects/micromanage/</link>
+      <pubDate>Sun, 22 Feb 2015 12:13:00 -0500</pubDate>
+      
+      <guid>https://ordonezalex.com/projects/micromanage/</guid>
+      <description>Summary Developed during UHacks 2015. MicroManage aims to solve the problem of forgetting to remind others.
+Our team sympathized with each other with a common problem: someone says &amp;ldquo;Hey, remind me to do X later today,&amp;quot; or &amp;ldquo;Can you text me to get Y so I remember when I go to the store tomorrow?&amp;quot; That&amp;rsquo;s dumb. Why not just set a reminder right then and there? The person asking to be reminded might very well be a busy person.</description>
+    </item>
+    
+    <item>
+      <title>Team With Me</title>
+      <link>https://ordonezalex.com/projects/team-with-me/</link>
+      <pubDate>Sun, 08 Feb 2015 06:10:03 -0500</pubDate>
+      
+      <guid>https://ordonezalex.com/projects/team-with-me/</guid>
+      <description>Summary VTHacks was the largest and longest hackathon most of these members had been to at the time. Marisa and Katie were mainly introduced to Android development. The whole team was enrolled in the Big Data Mining and Analytics course at Stetson University, so everyone wanted to work with some data to analyze. Many sponsors offered enormous APIs, but the team decided to create our own data—user information including repositories from GitHub, preferred languages, preferred roles on teams, and a bunch of binary replies about which hackers wanted to team up with other hackers.</description>
+    </item>
+    
+    <item>
+      <title>Public Safety Android App</title>
+      <link>https://ordonezalex.com/projects/public-safety-android-app/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ordonezalex.com/projects/public-safety-android-app/</guid>
+      <description>Summary During the Software Development II (CSCI 321), my team and I developed an Android app intended to be used by the public safety officers on Stetson University to improve student security on campus and to increase the productivity of public safety officers in responding to on-campus threats.
+The entire project includes a RESTful API for the apps, an Android app and iOS app for students, and a web app for public safety officers.</description>
+    </item>
+    
+  </channel>
+</rss>

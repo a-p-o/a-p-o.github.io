@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alex Ordonez</title>
+    <link>https://ordonezalex.com/posts/</link>
+    <description>Recent content in Posts on Alex Ordonez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Mar 2016 01:44:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://ordonezalex.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eating Vegan at Chipotle</title>
+      <link>https://ordonezalex.com/posts/eating-vegan-at-chipotle/</link>
+      <pubDate>Fri, 04 Mar 2016 01:44:00 -0700</pubDate>
+      
+      <guid>https://ordonezalex.com/posts/eating-vegan-at-chipotle/</guid>
+      <description>Choosing to consume a plant-based diet can be inconvenient. The greatest inconvenience might be finding a quick bite wherever you are.
+I am vegan and worked at Chipotle last year. It is my duty to help you master ordering food at Chipotle.
+First off, if you are anxious, I recommend ordering online. You can pick everything you want and get it when you are ready without having to wait through the line.</description>
+    </item>
+    
+    <item>
+      <title>Initial Commit</title>
+      <link>https://ordonezalex.com/posts/initial-commit/</link>
+      <pubDate>Sat, 28 Mar 2015 00:42:18 -0700</pubDate>
+      
+      <guid>https://ordonezalex.com/posts/initial-commit/</guid>
+      <description>README Author  Alex Ordonez  About Full-time student studying computer science. Loves education, Linux, open source software, hackathons, and sustainability.</description>
+    </item>
+    
+  </channel>
+</rss>
