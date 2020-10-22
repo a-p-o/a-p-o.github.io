@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=ngj9GX6a6X">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=ngj9GX6a6X">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=ngj9GX6a6X">
+		<link rel="manifest" href="/site.webmanifest?v=ngj9GX6a6X">
+		<link rel="shortcut icon" href="/favicon.ico?v=ngj9GX6a6X">
+		<meta name="msapplication-TileColor" content="#87b0ca">
+		<meta name="theme-color" content="#ffffff">
+
+		<title>Making this site accessible &middot; Alex Ordóñez</title>
+
+		
+  		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/css/fonts.css">
+		
+		<link href="" rel="alternate" type="application/rss+xml" title="Alex Ordóñez" />
+	</head>
+
+    <body>
+        		<nav class="nav">
+			<div class="nav-container">
+				<a href="/">
+					<span class="nav-title">Alex Ordóñez</span>
+				</a>
+				<ul>
+    
+    
+        <li>
+            <a href="/resume/">
+                
+                <span>Résumé</span>
+                
+            </a>
+        </li>
+    
+</ul>
+			</div>
+		</nav>
+
+        
+
+<main>
+	<div class="post">
+		<div class="post-info">
+    <span>Written by</span>
+        Alex Ordonez
+        <br>
+        <span>on&nbsp;</span><time datetime="2020-10-22 00:00:00 &#43;0000 UTC">October 22, 2020</time>
+</div>
+
+		<h1 class="post-title">Making this site accessible</h1>
+<div class="post-line"></div>
+
+		
+
+		<h2 id="background">Background</h2>
+<p>I attended <a href="https://www.womenwhocode.com/portland">Women Who Code Portland</a>&rsquo;s <a href="https://www.meetup.com/Women-Who-Code-Portland/events/273584063/">Design Study Night Online: Accessibility Design Principles and Strategies</a>. I learned a few things. I have known some basics for years now, like <em>always set the alt text</em>.</p>
+<h2 id="what-i-learned">What I learned</h2>
+<p>Color contrast is important. There are tools that measure contrast. WebAIM has a great <a href="https://webaim.org/resources/contrastchecker/">contrast checker</a>.</p>
+<p>Structure is (more) important (than I thought). I know better than to use an <code>h1</code> just because I want large text. What I did learn is that a page should probably only have a single <code>h1</code>, and heading tags should be hierarchical. I usually follow this practice, but I found many examples where I did not.</p>
+<p>&ldquo;Click here&rdquo; is lazy. These words do not describe what is behind the link. I do this <em>all</em> the time. My format has been: &ldquo;You can find more examples <em>here</em>,&rdquo; where <em>here</em> is a link. Often I use a colon, or list URLs. That appears to be even worse, because some (many? all?) screen readers will read the URL. It cannot be pronounced. Imagine a URL with some sort of ID at the end. Imagine a URL with a query string. If it&rsquo;s a link to a document, then title the link as the document&rsquo;s title.</p>
+<p>Another critique of &ldquo;click here&rdquo; is the ingrained ableist language. Not everyone clicks. Not to mention, someone might be tapping. There is no good reason for using this language anymore. Instead of &ldquo;click here to download,&rdquo; use &ldquo;download <em>thing</em>.&rdquo; Instead of &ldquo;click here to read more,&rdquo; use &ldquo;read more.&rdquo;</p>
+<p>The most important thing I learned was about WebAIM&rsquo;s <a href="https://wave.webaim.org">Web Accessibility Evaluation tool, WAVE</a>. I evaluated my personal website and saw nearly a dozen alerts for lacking color contrast. My next thought was to evaluate my website without releasing the changes. Thankfully WebAIM has me covered with a <a href="https://wave.webaim.org/extension/">WAVE Firefox extension</a>.</p>
+<h2 id="changes">Changes</h2>
+<p>Here are some changes that I made. It didn&rsquo;t hurt. You should give it a try.</p>
+<p>First up is increasing the color contrast. I didn&rsquo;t use WebAIM&rsquo;s contrast checker. All I had to do was darken the grays in this website&rsquo;s theme. The blue used for links was too light against the white backround, so I darkened it.</p>
+<p>I replaced any undeserving <code>h1</code> tags with <code>h2</code> tags. Meaning, I replaced most of them. I did the same with other headings so that each page had a clear hierarchy.</p>
+<p>The pagination links on each page used to be arrow icons. I changed those to be text. A computer is certainly able to read the words &ldquo;previous page&rdquo; and &ldquo;next page.&rdquo; And the icons were small. I almost didn&rsquo;t notice them.</p>
+<p>Last, but not least: I removed justified test styling. The browser&rsquo;s default alignment will be used. From WAVE&rsquo;s reference:</p>
+<blockquote>
+<p>Large blocks of justified text can negatively impact readability due to varying word/letter spacing and &lsquo;rivers of white&rsquo; that flow through the text.</p>
+</blockquote>
+<p>This has a greater effect on smaller screens, but I think it looks better anyways.</p>
+
+
+		
+	</div>
+
+	<div class="pagination">
+		<a href="/posts/my-money-mistake-espp/" class="left arrow">Previous page</a>
+
+		<a href="#" class="top">Top</a>
+	</div>
+</main>
+
+
+        		<footer>
+			
+			<span>
+			&copy; <time datetime="2020-10-22 02:09:07.535278 -0700 PDT m=&#43;0.050656940">2020</time> Alex Ordonez. Made with Hugo using the Tale theme.
+			</span>
+		</footer>
+
+    </body>
+</html>

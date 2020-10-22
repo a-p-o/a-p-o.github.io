@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alex Ordonez</title>
+    <title>Posts on Alex Ordóñez</title>
     <link>https://ordonezalex.com/posts/</link>
-    <description>Recent content in Posts on Alex Ordonez</description>
+    <description>Recent content in Posts on Alex Ordóñez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ordonezalex.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Money Mistake: ESPP</title>
+      <title>Making this site accessible</title>
+      <link>https://ordonezalex.com/posts/making-this-site-accessible/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ordonezalex.com/posts/making-this-site-accessible/</guid>
+      <description>Background I attended Women Who Code Portland&amp;rsquo;s Design Study Night Online: Accessibility Design Principles and Strategies. I learned a few things. I have known some basics for years now, like always set the alt text.
+What I learned Color contrast is important. There are tools that measure contrast. WebAIM has a great contrast checker.
+Structure is (more) important (than I thought). I know better than to use an h1 just because I want large text.</description>
+    </item>
+    
+    <item>
+      <title>My money mistake: ESPP</title>
       <link>https://ordonezalex.com/posts/my-money-mistake-espp/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       
